@@ -5,7 +5,7 @@
 </div>
 
 + 🎓 CS undergrad.
-+ ⭐Interestedin: AGI / GameDev / Security
++ ⭐ Interestedin: AGI / GameDev / Security
 + 🤖 Currently exploring Unity-based virtual digital humans. (..and opc?)
 + 📮 Always up for a chat, a collaboration or a question — email reaches me fastest.
 
