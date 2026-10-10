@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/cahoho">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=780&height=72&lines=Hi%2C+I%27m+cahoho+%F0%9F%91%8B;AI+Native+%C2%B7+VAGI+%C2%B7+Security;Dare+to+try.+Innovate.+Iterate." alt="Hi, I'm cahoho" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=780&height=72&lines=Hi%2C+I%27m+cahoho+%F0%9F%91%8B;AI+Native+%C2%B7+VHCI+%C2%B7+Security;Dare+to+try.+Innovate.+Iterate." alt="Hi, I'm cahoho" />
 </a>
 </div>
 
