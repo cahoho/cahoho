@@ -6,7 +6,8 @@
 
 + 🎓 CS undergrad.
 + ⭐ Interestedin: AGI / HCI / GameDev / Security
-+ 🤖 Currently exploring Unity-based virtual digital humans. (..and opc?)
++ 🤖 Currently exploring Unity-based virtual digital humans.
++ 🏢 OPC explorer.
 + 📮 Always up for a chat, a collaboration or a question — email reaches me fastest.
 
 ## Technology Stack
